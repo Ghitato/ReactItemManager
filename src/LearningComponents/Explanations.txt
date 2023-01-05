@@ -1,0 +1,4 @@
+State
+--> An object of a set of observable properties that control the behaviour of 
+    the component
+    Temporary (only stored in the front-end not back-end)
