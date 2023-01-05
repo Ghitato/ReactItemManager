@@ -29,6 +29,7 @@ function AddItems({ addItem }){
             <div className="row">
             {/*Can just use one className="row" isntead of 4 like in SearchBar.js*/}
             {/*Test*/}
+            {/*Second Test for the Second Commit*/}
                 <label htmlFor="name-field">Name: </label>
                 <input 
                     className="form-control"
